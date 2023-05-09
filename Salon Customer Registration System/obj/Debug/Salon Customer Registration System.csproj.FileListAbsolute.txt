@@ -1,0 +1,18 @@
+G:\c#\Salon Customer Registration System\Salon Customer Registration System\bin\Debug\Salon Customer Registration System.exe.config
+G:\c#\Salon Customer Registration System\Salon Customer Registration System\bin\Debug\Salon Customer Registration System.exe
+G:\c#\Salon Customer Registration System\Salon Customer Registration System\bin\Debug\Salon Customer Registration System.pdb
+G:\c#\Salon Customer Registration System\Salon Customer Registration System\obj\Debug\Salon Customer Registration System.csprojResolveAssemblyReference.cache
+G:\c#\Salon Customer Registration System\Salon Customer Registration System\obj\Debug\Salon_Customer_Registration_System.Form3.resources
+G:\c#\Salon Customer Registration System\Salon Customer Registration System\obj\Debug\Salon_Customer_Registration_System.Form4.resources
+G:\c#\Salon Customer Registration System\Salon Customer Registration System\obj\Debug\Salon_Customer_Registration_System.Properties.Resources.resources
+G:\c#\Salon Customer Registration System\Salon Customer Registration System\obj\Debug\Salon Customer Registration System.csproj.GenerateResource.Cache
+G:\c#\Salon Customer Registration System\Salon Customer Registration System\obj\Debug\Salon Customer Registration System.exe
+G:\c#\Salon Customer Registration System\Salon Customer Registration System\obj\Debug\Salon Customer Registration System.pdb
+G:\c#\Salon Customer Registration System\Salon Customer Registration System\bin\Debug\MySql.Data.dll
+G:\c#\Salon Customer Registration System\Salon Customer Registration System\bin\Debug\MySql.Data.xml
+G:\c#\Salon Customer Registration System\Salon Customer Registration System\obj\Debug\Salon_Customer_Registration_System.Login.resources
+G:\c#\Salon Customer Registration System\Salon Customer Registration System\obj\Debug\Salon_Customer_Registration_System.Dash.resources
+G:\c#\Salon Customer Registration System\Salon Customer Registration System\obj\Debug\Salon_Customer_Registration_System.Client_record.resources
+G:\c#\Salon Customer Registration System\Salon Customer Registration System\obj\Debug\Salon_Customer_Registration_System.Form6.resources
+G:\c#\Salon Customer Registration System\Salon Customer Registration System\obj\Debug\Salon_Customer_Registration_System.Form7.resources
+G:\c#\Salon Customer Registration System\Salon Customer Registration System\obj\Debug\Salon_Customer_Registration_System.Form8.resources
